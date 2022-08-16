@@ -62,7 +62,7 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - How I debugged: I clicked on the submit to see it was not being created at the controller level. Found there was an s on toy.
 
 - Update the number of likes for a toy
 
